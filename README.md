@@ -1,11 +1,13 @@
-Advent of Code - Solutions
+# Advent of Code - Solutions
 
-I'm going to post here my solutions for the [Advent of Code][advent_of_code] puzzles.
-As a self imposed, extra challenge, I'm going to develop the answers in Elixir, a language which I don't have any prior experience.
+My solutions for the [Advent of Code][advent_of_code] puzzles.
+
+As a self imposed, extra challenge, I'm going to develop the answers in Elixir, a language in which I don't have any prior experience.
 
 Feel free to compare them to your own solutions and PR alternative answers.
 
 *WARNING: Spoilers*
+
 You should really try the puzzles for yourself before looking for answers.
 
 <!-- Links -->
